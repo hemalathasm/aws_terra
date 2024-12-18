@@ -6,5 +6,5 @@ provider "aws" {
      ami           = "ami-0e2c8caa4b6378d8c"  # Specify an appropriate AMI ID
      instance_type = "t2.micro"
      subnet_id = "subnet-056b8b3a83e89e925"
-     key_name = "North-ver.pem"
+     key_name = "North-ver"
    }
